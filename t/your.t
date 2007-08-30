@@ -1,7 +1,6 @@
 #!/usr/bin/perl -w
 
 use strict;
-use lib qw(t/lib);
 use Test::More tests => 6;
 
 my @warnings;

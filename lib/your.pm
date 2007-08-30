@@ -4,7 +4,7 @@ require 5.004;
 
 use strict qw(vars subs);
 use vars qw($VERSION);
-$VERSION = '0.01';
+$VERSION = '1.00';
 
 =head1 NAME
 
@@ -69,6 +69,15 @@ sub import {
 =head1 AUTHOR
 
 Michael G Schwern <schwern@pobox.com>
+
+=head1 COPYRIGHT
+
+Copyright 2001, 2007 by Michael G Schwern E<lt>schwern@pobox.comE<gt>.
+
+This program is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.
+
+See F<http://dev.perl.org/licenses/>
 
 =head1 SEE ALSO
 

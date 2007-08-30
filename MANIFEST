@@ -1,7 +1,6 @@
+Build.PL
 Changes
-MANIFEST
-Makefile.PL
 lib/your.pm
-t/lib/Test/More.pm
-t/lib/Test/Simple.pm
+MANIFEST
 t/your.t
+META.yml
